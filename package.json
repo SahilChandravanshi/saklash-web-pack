@@ -23,14 +23,14 @@
 	],
 	"icon": "SahilDEVPACK.png",
 	"extensionPack": [
-		"dsznajder.es7-react-js-snippets",//dsznajder.es7-react-js-snippets
-    "dbaeumer.vscode-eslint",//ESLint
-    "ritwickdey.LiveServer",//Live Server
-    "formulahendry.auto-rename-tag",//Auto Rename Tag
-    "esbenp.prettier-vscode",//Prettier - Code formatter
-    "christian-kohler.npm-intellisense",//npm Intellisense
-    "kisstkondoros.vscode-gutter-preview",//Image preview
-    "rangav.vscode-thunder-client",//Thunder Client
-    "mtxr.sqltools"//SQLTools
+		"dsznajder.es7-react-js-snippets",
+		"dbaeumer.vscode-eslint",
+		"ritwickdey.LiveServer",
+		"formulahendry.auto-rename-tag",
+		"esbenp.prettier-vscode",
+		"christian-kohler.npm-intellisense",
+		"kisstkondoros.vscode-gutter-preview",
+		"rangav.vscode-thunder-client",
+		"mtxr.sqltools"
 	]
 }
