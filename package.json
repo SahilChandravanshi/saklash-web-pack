@@ -21,6 +21,7 @@
 	"categories": [
 		"Extension Packs"
 	],
+	"icon": "SahilDEVPACK.png",
 	"extensionPack": [
 		"dsznajder.es7-react-js-snippets",//dsznajder.es7-react-js-snippets
     "dbaeumer.vscode-eslint",//ESLint
