@@ -1,0 +1,24 @@
+{
+	"name": "saklash-web-pack",
+	"displayName": "Saklash Web Pack",
+	"description": "Extension Pack for web development",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"dsznajder.es7-react-js-snippets",//dsznajder.es7-react-js-snippets
+    "formulahendry.auto-rename-tag",//Auto Rename Tag
+    "christian-kohler.npm-intellisense",//npm Intellisense
+    "ritwickdey.LiveServer",//Live Server
+    "esbenp.prettier-vscode",//Prettier - Code formatter
+    "kisstkondoros.vscode-gutter-preview",//Image preview
+    "dbaeumer.vscode-eslint",//ESLint
+    "rangav.vscode-thunder-client",//Thunder Client
+    "jasonnutter.search-node-modules",//Search node_modules
+    "mtxr.sqltools"//SQLTools
+	]
+}
