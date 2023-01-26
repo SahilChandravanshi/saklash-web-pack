@@ -2,9 +2,21 @@
 	"name": "saklash-web-pack",
 	"displayName": "Saklash Web Pack",
 	"description": "Extension Pack for web development",
+	"license": "MIT",
 	"version": "0.0.1",
+	"publisher": "SahilChandravanshi",
+	"author": {
+		"name": "Sahil Chandravanshi"
+	},
 	"engines": {
 		"vscode": "^1.74.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SahilChandravanshi/saklash-web-pack"
+	},
+	"bugs": {
+		"url": "https://github.com/SahilChandravanshi/saklash-web-pack/issues"
 	},
 	"categories": [
 		"Extension Packs"
