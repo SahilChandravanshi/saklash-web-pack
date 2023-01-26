@@ -1,6 +1,6 @@
 <h1 align="center">Saklash Web Development Pack</h1>
 <p align="center">
-  <img alt="icon" width="20%" src="./SahilDEVPACK.png">
+  <img alt="icon" width="20%" src="https://raw.githubusercontent.com/SahilChandravanshi/saklash-web-pack/main/SahilDEVPACK.png">
 </p>
 This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 
