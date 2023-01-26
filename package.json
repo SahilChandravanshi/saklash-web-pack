@@ -11,14 +11,13 @@
 	],
 	"extensionPack": [
 		"dsznajder.es7-react-js-snippets",//dsznajder.es7-react-js-snippets
-    "formulahendry.auto-rename-tag",//Auto Rename Tag
-    "christian-kohler.npm-intellisense",//npm Intellisense
-    "ritwickdey.LiveServer",//Live Server
-    "esbenp.prettier-vscode",//Prettier - Code formatter
-    "kisstkondoros.vscode-gutter-preview",//Image preview
     "dbaeumer.vscode-eslint",//ESLint
+    "ritwickdey.LiveServer",//Live Server
+    "formulahendry.auto-rename-tag",//Auto Rename Tag
+    "esbenp.prettier-vscode",//Prettier - Code formatter
+    "christian-kohler.npm-intellisense",//npm Intellisense
+    "kisstkondoros.vscode-gutter-preview",//Image preview
     "rangav.vscode-thunder-client",//Thunder Client
-    "jasonnutter.search-node-modules",//Search node_modules
     "mtxr.sqltools"//SQLTools
 	]
 }
